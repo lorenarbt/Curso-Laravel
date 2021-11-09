@@ -1,2 +1,3 @@
 # Laravel-Laravel
- Material da agenda crianda com base  no Curso de Laravel da Udemy
+ Material da agenda criada com base no curso de Laravel da Udemy
+ 
